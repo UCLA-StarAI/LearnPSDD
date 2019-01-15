@@ -4,7 +4,7 @@ The latest version of this library is stored at
 
 https://github.com/YitaoLiang/Scala-LearnPsdd, 
 
-where manuy known bugs have been fixed. 
+where many known bugs have been fixed. 
 
 ****************************************************************
 
